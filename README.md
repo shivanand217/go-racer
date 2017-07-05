@@ -3,8 +3,8 @@ A simple python game developed by me named go racer. Included Musics also.
 
 Screenshots:
 
-![Optional Text](../master/screenshots/1.png)
+![Screen1](../master/screenshots/img1.jpg)
 
-![Optional Text](../master/screenshots/2.png)
+![Screen2](../master/screenshots/2.jpg)
 
-![Optional Text](../master/screenshots/3.png)
+![Screen3](../master/screenshots/3.jpg)
